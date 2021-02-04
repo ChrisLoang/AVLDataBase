@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVLDataBase", "AVLDataBase.vcxproj", "{FCF85D90-D926-4993-A110-F3C83EE09163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Debug|x64.ActiveCfg = Debug|x64
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Debug|x64.Build.0 = Debug|x64
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Debug|x86.Build.0 = Debug|Win32
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Release|x64.ActiveCfg = Release|x64
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Release|x64.Build.0 = Release|x64
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Release|x86.ActiveCfg = Release|Win32
+		{FCF85D90-D926-4993-A110-F3C83EE09163}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6250C7AE-D52C-4E8A-998C-CC93B8CB0AD7}
+	EndGlobalSection
+EndGlobal
