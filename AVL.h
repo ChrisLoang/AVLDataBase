@@ -1,6 +1,6 @@
 #pragma once
 
-
+#include<iterator>
 #include<utility>
 
 //Template Key,Value
@@ -18,5 +18,16 @@ private:
 
 	};
 
+	NODE* Root;
+	int Size;
 
+public:
+
+	AVL() {
+		//initial Root and Size;
+		Root = nullptr;
+		Size = {};
+	}
+
+	//TODO: Create a fully qualified constructor
 };
